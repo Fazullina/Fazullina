@@ -7,12 +7,6 @@
 <meta name="description" content="" />
 <link href="styles.css" rel="stylesheet" type="text/css" />
 	<style>
-		/*
-Design by Metamorphosis Design
-http://www.metamorphozis.com
-Released for free under a Creative Commons Attribution 2.5 License
-*/
-
 * {
 	margin: 0;
 	padding: 0;
