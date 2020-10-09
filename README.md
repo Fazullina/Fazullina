@@ -1,5 +1,4 @@
 # Fazullina
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -39,7 +38,7 @@ a:visited {
 }
 
 body {
-	background: #000000 url('images/header.jpg') no-repeat center top;
+	background: #000000 url('https://masyamba.ru/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D1%82%D0%B8%D0%B3%D1%80%D0%B0/56-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D1%82%D0%B8%D0%B3%D1%80%D1%8B-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5.jpg') no-repeat center top;
 	margin: 0px;
 	font-family: Arial, Helvetica, sans-serif;
 }
